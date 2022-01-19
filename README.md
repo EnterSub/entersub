@@ -17,4 +17,3 @@ Student, learning Data Science and Machine Learning technologies.
 
 ### Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=entersub&layout=compact)](https://github.com/entersub)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=entersub&hide=stars,prs,issues,contribs&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/entersub)
