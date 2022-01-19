@@ -1,11 +1,9 @@
 <p align="center"><img src="https://github.com/EnterSub/entersub/blob/main/Hello.gif"></p>
 
 ### About me
-
 Student, learning Data Science and Machine Learning technologies.
 
 ### Stack
-
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/EnterSub)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/EnterSub)
 [![C#](https://img.shields.io/badge/c%23-green?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/EnterSub)
@@ -18,7 +16,5 @@ Student, learning Data Science and Machine Learning technologies.
 [![LinkedIn](https://img.shields.io/badge/linkedin-9cf?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/EnterSub)
 
 ### Stats
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=entersub&layout=compact)](https://github.com/entersub)
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=entersub&hide=stars,prs,issues,contribs&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/entersub)
