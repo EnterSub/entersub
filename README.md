@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://github.com/EnterSub/entersub/blob/main/Hello.gif" alt="Image"/>
+<img src="https://github.com/EnterSub/entersub/blob/main/Hello.gif">
 </p>
 
 ### About me
 
 Student, learning Data Science and Machine Learning technologies.
 
-### Stack:
+### Stack
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/EnterSub)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/EnterSub)
