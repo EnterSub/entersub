@@ -1,4 +1,6 @@
-[![Header](https://github.com/EnterSub/entersub/blob/main/Hello.gif?style=centerme)](https://github.com/EnterSub)
+<p align="center">
+<img src="https://github.com/EnterSub/entersub/blob/main/Hello.gif" alt="Image"/>
+</p>
 
 ### About me
 
