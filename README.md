@@ -12,3 +12,5 @@ Student, learning Data Science and Machine Learning technologies.
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+![LinkedIn](https://img.shields.io/badge/linkedin-9cf?style=for-the-badge&logo=linkedin&logoColor=white)
