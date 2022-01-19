@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/EnterSub/entersub/blob/main/Hello.gif"></p>
+<p align="center"><img src="https://github.com/EnterSub/entersub/blob/main/Welcome.gif"></p>
 
 ### About me
 Student, learning Data Science and Machine Learning technologies.
