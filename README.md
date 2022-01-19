@@ -18,4 +18,7 @@ Student, learning Data Science and Machine Learning technologies.
 [![LinkedIn](https://img.shields.io/badge/linkedin-9cf?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/EnterSub)
 
 ### Stats
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=entersub)](https://github.com/entersub)
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=entersub&hide=stars,prs,issues,contribs&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/entersub)
