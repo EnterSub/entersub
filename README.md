@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://github.com/EnterSub/entersub/blob/main/Hello.gif">
-</p>
+<p align="center"><img src="https://github.com/EnterSub/entersub/blob/main/Hello.gif"></p>
 
 ### About me
 
@@ -16,5 +14,8 @@ Student, learning Data Science and Machine Learning technologies.
 [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://github.com/EnterSub)
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-9cf?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/EnterSub)
 
-### Social:
+### Social
 [![LinkedIn](https://img.shields.io/badge/linkedin-9cf?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/EnterSub)
+
+### Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=entersub&hide=stars,issues)](https://github.com/entersub)
