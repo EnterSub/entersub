@@ -1,5 +1,4 @@
-<html>
-<center>[![Header](https://github.com/EnterSub/entersub/blob/main/Hello.gif)](https://github.com/EnterSub)
+[![Header](https://github.com/EnterSub/entersub/blob/main/Hello.gif?style=centerme)](https://github.com/EnterSub)
 
 ### About me
 
@@ -17,5 +16,3 @@ Student, learning Data Science and Machine Learning technologies.
 
 ### Social:
 [![LinkedIn](https://img.shields.io/badge/linkedin-9cf?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/EnterSub)
-</center>
-</html>
