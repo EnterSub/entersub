@@ -2,7 +2,7 @@
 Student, learning Data Science and Machine Learning technologies.
 
 ### Stack
-<p align="center">[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/EnterSub)</p>
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/EnterSub)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/EnterSub)
 [![C#](https://img.shields.io/badge/c%23-green?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/EnterSub)
 [![Vba](https://img.shields.io/badge/vba-9cf?style=for-the-badge&logo=vba&logoColor=white)](https://github.com/EnterSub)
