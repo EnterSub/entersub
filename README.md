@@ -1,4 +1,4 @@
-## About me
+## About
 Student, learning Data Science and Machine Learning technologies.
 
 ## Stack
