@@ -1,6 +1,8 @@
 ## About
 Student, learning Data Science and Machine Learning technologies.
 
+Currently I'm working on developing mobile application that includes ETL system for image processing and visualization with stack of Python, SQL(BigQuery) and Tableau. Also some of visualizations available via website. I can open repository of project, so feel free to write me if it is important for you as HR specialist for futher interview or offer.
+
 ## Stack
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/EnterSub)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/EnterSub)
