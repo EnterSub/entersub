@@ -14,4 +14,3 @@ Currently I'm working on developing mobile application that includes ETL system 
 
 ## Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=entersub&layout=compact)](https://github.com/EnterSub)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=entersub&hide=stars,prs,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&theme=gruvbox)](https://github.com/EnterSub)
