@@ -1,7 +1,5 @@
 ## About
-Student, learning Data Science and Machine Learning technologies.
-
-Currently I'm working on developing mobile application that includes ETL system for image processing and visualization with stack of Kotlin, Python, SQL (BigQuery) and Tableau. Also some of visualizations available via website.
+Final year MSc student with experience in Data Analysis and Data Science domains.
 
 ## Stack
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/EnterSub)
