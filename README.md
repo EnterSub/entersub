@@ -1,2 +1,2 @@
 ## About
-MSc with experience in Data Science and Data Analysis.
+MSc in Computer Science. Experience in Data Science and Data Analysis.
