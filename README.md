@@ -2,7 +2,7 @@
 MSc in Computer Science. Experience in Data Science and Data Analysis.
 
 
-Some publications from competitions and study project:
+Some public events and international competitions results:
 - https://eee-science.ru/wp-content/uploads/2022/08/MPO-21-22-F_Results.pdf | Winner
 - http://www.sci-cooperation.ru/activity/contests/itogi_gnozis_2022 | Winner
 - https://youtu.be/wJorcAXURz8?t=8203 ([Presentation](https://github.com/EnterSub/Other_Projects/blob/main/Presentation_ImageFinder.pdf)) | Winner (Team Lead)
