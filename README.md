@@ -1,5 +1,7 @@
 ## About
-MSc in Computer Science. Experience in Data Science and Data Analysis.
+Motivated and responsible Data Analyst. Have worked in international companies. Won multiple IT
+competitions. M.Sc. in computer science. Completed relevant projects and courses in Data Analysis and
+Machine Learning. Proficient in 3 languages. Passionate about contributing to company success.
 
 
 Some public events and international competitions results:
