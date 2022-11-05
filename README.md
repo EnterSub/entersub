@@ -7,4 +7,3 @@ Some public events and international competitions results:
 - http://www.sci-cooperation.ru/activity/contests/itogi_gnozis_2022 | Winner
 - https://youtu.be/wJorcAXURz8?t=8203 ([Presentation](https://github.com/EnterSub/Other_Projects/blob/main/Presentation_ImageFinder.pdf)) | Winner (Team Lead)
 - https://sowa-ru.com/wp-content/uploads/2022/08/ps-21-22-f_results.pdf | 3rd place
-- https://tinyurl.com/projectuniversity | Laureate
