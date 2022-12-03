@@ -1,8 +1,5 @@
 ## About
-Motivated and responsible Data Analyst. Have worked in international companies. Won multiple IT
-competitions. M.Sc. in computer science. Completed relevant projects and courses in Data Analysis and
-Machine Learning. Proficient in 3 languages. Passionate about contributing to company success.
-
+Motivated and responsible Data Analyst, Data Scientist. Have worked in international companies. Won multiple IT competitions. M.Sc. in computer science. Completed relevant projects and courses in Data Analysis and Machine Learning. Proficient in 3 languages. Passionate about contributing to company success.
 
 Some public events and international competitions results:
 - https://eee-science.ru/wp-content/uploads/2022/08/MPO-21-22-F_Results.pdf | Winner
